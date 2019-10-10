@@ -8,5 +8,7 @@ Esto es _cursivo_ y la negrita es **así**
 
 Losbuenos nombres se repositorios son cortos y fáciles de recordar.
 
-Hola, que pasa?
-Versión 2 de desarrollo
+
+
+Hola a todos!!
+
